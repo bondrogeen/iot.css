@@ -1,6 +1,9 @@
 # nodemcu-css
-==============
-CSS framework for simple web servers.   
+==============   
+
+Small CSS Frameworks for simple web servers. 
+
+nodemcu-css.gz ~ 3KB
 
 ### example   
 https://bondrogeen.github.io/
