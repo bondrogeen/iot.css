@@ -1,9 +1,9 @@
-# nodemcu-css
+# iot.css
 ==============   
 
 Small CSS Frameworks for simple web servers. 
 
-nodemcu-css.gz ~ 3KB
+iot.css.gz ~ 3KB
 
 ### example   
-https://bondrogeen.github.io/
+http://io.codedevice.ru/EN/example.html
